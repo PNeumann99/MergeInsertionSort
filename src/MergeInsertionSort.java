@@ -82,6 +82,6 @@ public class MergeInsertionSort {
         for (int u = 0; u < arr.length; u++) {
             System.out.println(arr[u] + " ");
         }
-        System.out.println("Lauf des Sortieralgoruthmus: " + (timeEnd - timeStart) + "Nanosek.");
+        System.out.println("Laufzeit des Sortieralgorithmus: " + (timeEnd - timeStart) + " Nanosek.");
     }
 }
